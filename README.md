@@ -38,6 +38,15 @@ The data used are public and were obtained from Kaggle, the links are as follows
 
 We performed several neural network architectures to predict the price of each Airbnb according to some characteristics. A validation and test set was employed. In the test set, we obtained an **RSME of 56.1**
 
+# Libraries
+
+* Scikit Learn
+* Keras
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Plotly
 
 # Get the Summary in Medium
 
