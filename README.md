@@ -43,3 +43,7 @@ We performed several neural network architectures to predict the price of each A
 
 Go to check my medium article: https://medium.com/@ancastillar/the-price-of-a-good-airbnb-experience-254d1162ea34
 
+
+# Acknowledgements
+
+Thank to Davivienda to support me throught this course
