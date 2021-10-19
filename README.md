@@ -21,5 +21,23 @@ The data used are public and were obtained from Kaggle, the links are as follows
 * Listings Boston Airbnb: https://www.kaggle.com/airbnb/boston
 * Listings Seattle Airbnb: https://www.kaggle.com/airbnb/seattle
 
+# About the notebook
+
+
+ The Notebook has the following structure:
+ 
+ * Data Exploration
+ * Feature Engineering
+ * Insights for Hosts
+ * The model
+ * Results
+ * Reference
+ 
 
 # Model and results
+
+We performed several neural network architectures to predict the price of each Airbnb according to some characteristics. A validation and test set was employed. In the test set, we obtained an **RSME of 56.1**
+
+
+
+
