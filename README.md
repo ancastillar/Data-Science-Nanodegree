@@ -39,5 +39,7 @@ The data used are public and were obtained from Kaggle, the links are as follows
 We performed several neural network architectures to predict the price of each Airbnb according to some characteristics. A validation and test set was employed. In the test set, we obtained an **RSME of 56.1**
 
 
+# Get the Summary in Medium
 
+Go to check my medium article: https://medium.com/@ancastillar/the-price-of-a-good-airbnb-experience-254d1162ea34
 
