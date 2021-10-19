@@ -12,3 +12,14 @@ Goals
 * Delivering inputs for hosts with low earnings and making their listings more profitable and earning more revenue.
 
 * Investigate the influence of some variables on the price of each Airbnb
+
+
+# Data
+
+The data used are public and were obtained from Kaggle, the links are as follows:
+
+* Listings Boston Airbnb: https://www.kaggle.com/airbnb/boston
+* Listings Seattle Airbnb: https://www.kaggle.com/airbnb/seattle
+
+
+# Model and results
