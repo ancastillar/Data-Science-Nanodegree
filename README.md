@@ -55,4 +55,4 @@ Go to check my medium article: https://medium.com/@ancastillar/the-price-of-a-go
 
 # Acknowledgements
 
-Thank to Davivienda to support me throught this course
+Thanks to Davivienda to support me through this course
